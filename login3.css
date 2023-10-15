@@ -99,7 +99,7 @@ p {
 }
 
 input:focus, input:valid {
-  border-bottom: 2px solid #d06ba6;;
+  border-bottom: 2px solid #50f3f7;;
 }
 
 input:focus + label span, input:valid + label span {
@@ -113,6 +113,6 @@ input:focus + label span, input:valid + label span {
   font-weight: 600;
   color: #d06ba6;
 }
-.col-12 input{
+/* .col-12 input{
   
-}
+} */
